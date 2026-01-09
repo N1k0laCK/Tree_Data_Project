@@ -1,0 +1,14 @@
+D:\Програмиране\ООП\TreeDataProject\bin\Debug\net8.0\TreeDataProject.exe
+D:\Програмиране\ООП\TreeDataProject\bin\Debug\net8.0\TreeDataProject.deps.json
+D:\Програмиране\ООП\TreeDataProject\bin\Debug\net8.0\TreeDataProject.runtimeconfig.json
+D:\Програмиране\ООП\TreeDataProject\bin\Debug\net8.0\TreeDataProject.dll
+D:\Програмиране\ООП\TreeDataProject\bin\Debug\net8.0\TreeDataProject.pdb
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.AssemblyInfoInputs.cache
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.AssemblyInfo.cs
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.csproj.CoreCompileInputs.cache
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.dll
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\refint\TreeDataProject.dll
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.pdb
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\TreeDataProject.genruntimeconfig.cache
+D:\Програмиране\ООП\TreeDataProject\obj\Debug\net8.0\ref\TreeDataProject.dll
