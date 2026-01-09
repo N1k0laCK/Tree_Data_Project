@@ -17,6 +17,7 @@ Binary Search Tree (BST)
 3. Use the menu to interact with the tree
 
 ## Example
+(should be put one at a time(one by one))
 Input:
 Add: 5, 3, 7, 1
 
